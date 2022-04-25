@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi Everyone 👋
 
-<!--
-**camilo4750/camilo4750** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I´m Camilo Alarcón
 
-Here are some ideas to get you started:
+I am a guy passionate about constantly learning about programming, my mission is to strive and always give my best to meet my goals and grow a lot.
+Personally and professionally, I like to drink coffee while programming, I always try to deal with my difficulties as calmly as possible and break 
+my problems down into different parts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"Divide and conquer"; 💯
+
+a little more about me..!
+
+const Skills = {
+  Frontent: ["Html", "Css", "Bootstrap", "React", "Javascript"],
+  Backend: ["Php", "Python", "NodeJs", "Express"],
+  Databases: ["Mysql", "MongoDB"],
+  Challenge: [
+    "Improve and explore new skills, overcome my rivalries and be better every day than the previous one",
+  ],
+};
+
+function EspecificacionSkills({ Frontent, Backend, Databases, Challenge }) {
+  console.log(
+    `💪 I´m currently Working whith ${Frontent[0]}, ${Frontent[1]}, ${Frontent[2]}, ${Backend[0]} ${Backend[1]}, ${Databases[1]}`
+  );
+  console.log(
+    `📈 I´m currently learning ${Frontent[4]}, ${Backend[2]} con ${Backend[3]}, ${Databases[1]}`
+  );
+  console.log(`😄 Everything is always with the same purpose: ${Challenge}`);
+}
+
+EspecificacionSkills(Skills);
