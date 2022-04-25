@@ -8,8 +8,8 @@ my problems down into different parts.
 
 "Divide and conquer"; 💯
 
-a little more about me..!
-
+## a little more about me..!
+```js
 const Skills = {
   Frontent: ["Html", "Css", "Bootstrap", "React", "Javascript"],
   Backend: ["Php", "Python", "NodeJs", "Express"],
@@ -18,6 +18,7 @@ const Skills = {
     "Improve and explore new skills, overcome my rivalries and be better every day than the previous one",
   ],
 };
+
 
 function EspecificacionSkills({ Frontent, Backend, Databases, Challenge }) {
   console.log(
@@ -30,3 +31,4 @@ function EspecificacionSkills({ Frontent, Backend, Databases, Challenge }) {
 }
 
 EspecificacionSkills(Skills);
+```
