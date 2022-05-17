@@ -19,7 +19,7 @@ const Skills = {
 };
 
 
-function SpecificationSkills({ Frontent, Backend, Databases, Challenge }) {
+function specificationSkills({ Frontent, Backend, Databases, Challenge }) {
   console.log(
     `💪 I´m currently Working whith ${Frontent[0]}, ${Frontent[1]}, ${Frontent[2]}, ${Backend[0]} ${Backend[1]}, ${Databases[1]}`
   );
@@ -29,7 +29,7 @@ function SpecificationSkills({ Frontent, Backend, Databases, Challenge }) {
   console.log(`😄 Everything is always with the same purpose: ${Challenge}`);
 }
 
-EspecificacionSkills(Skills);
+especificacionSkills(Skills);
 ```
 
 <h3 align="left">Languages and Tools:</h3>
