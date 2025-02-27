@@ -7,7 +7,7 @@ Durante mi trayectoria como desarrollador, he enfrentado diversos retos, siempre
 
 <h3 align="left">Mi stack technologico es el siguiente:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
   <img src="https://cdn.prod.website-files.com/62865614b39c464b76d339aa/66341250ee6e33762fd2c8c7_Bootstrap-original.svg" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
